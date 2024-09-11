@@ -1,0 +1,1 @@
+This API is designed to generate random math problems for different subjects such as Algebra, Calculus, Linear Algebra, and Statistics. It serves problems based on various topics within these subjects and returns both the problem and the solution.
